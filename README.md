@@ -16,7 +16,7 @@ Let's set a 10 week target whilst we are still partially locked down and review 
 
 ## Log
 
-:white_check_mark::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_large_square::white_large_square::white_large_square:
 :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square:
 :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square:
 :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square:
@@ -30,3 +30,22 @@ Let's set a 10 week target whilst we are still partially locked down and review 
 ### Day 1 - 18th July
 
 Restart (for the 100th time) my personal finance tracker - vizzy money. I will start a React project and create a form that lets me view and edit transactions.
+
+Completed:
+Started new app and included some semantic ui components
+
+
+### Day 2
+
+Start learning node/express so that I can create an API for Finance app
+
+Completed:
+- Completed and wrote up a small youtube course in tutorials repo.
+- Created vizzymoney-api repo
+- Wrote a python script that loads our finances in csv into an sqlite tables
+
+### Day 3
+Hooked up express to sqlite and return transactions 
+
+### Day 4
+Linked ui and api
